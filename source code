@@ -8,6 +8,8 @@ import speech_recognition as sr
 import uuid
 
 
+
+
 #you can create your own api key from   https://platform.openai.com/account/api-keys
 api_key = " " #save it somewhere safe you cant view it again
 
